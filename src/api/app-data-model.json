@@ -1,0 +1,40 @@
+{
+	"inventoryList": [{
+		"id": 1,
+		"category": "Appliances",
+		"price": 50000,
+		"stocked": true,
+		"name": "Televisions"
+	}, {
+		"id": 2,
+		"category": "Appliances",
+		"price": 27000,
+		"stocked": true,
+		"name": "Air Conditioners"
+	}, {
+		"id": 3,
+		"category": "Home & Furniture",
+		"price": 29999,
+		"stocked": false,
+		"name": "Sofas"
+	}, {
+
+		"id": 4,
+		"category": "Electronics",
+		"price": 4500,
+		"stocked": true,
+		"name": "iPod Touch"
+	}, {
+		"id": 5,
+		"category": "Electronics",
+		"price":39999,
+		"stocked": false,
+		"name": "iPhone 5"
+	}, {
+		"id": 6,
+		"category": "Electronics",
+		"price": 19999,
+		"stocked": true,
+		"name": "Samsung Galaxy"
+	}]
+}

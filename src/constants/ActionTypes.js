@@ -1,0 +1,4 @@
+export const SET_STATE = 'SET_STATE'
+export const INVENTORY_ADD = 'INVENTORY_ADD'
+export const INVENTORY_EDIT = 'INVENTORY_EDIT'
+export const INVENTORY_DELETE = 'INVENTORY_DELETE'

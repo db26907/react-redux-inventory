@@ -1,0 +1,27 @@
+{
+  "name": "react-redux-inventory",
+  "version": "1.0.0",
+  "description": "React POC for Inventory",
+  "devDependencies": {
+    "react-scripts": "0.4.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "react-router": "^3.0.0",
+    "redux-logger": "^2.6.1",
+    "react-bootstrap": "^0.31.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/react-scripts/config/eslint.js"
+  }
+}
